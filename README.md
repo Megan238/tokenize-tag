@@ -39,6 +39,7 @@ The `keywords.csv` file was provided as part of the take-home assignment
 and is excluded from this public repository to respect data ownership.
 
 To run locally, place `keywords.csv` in the project root.
+
 ---
 
 ## Run the API
