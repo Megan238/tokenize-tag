@@ -70,5 +70,3 @@ You can also run the demo directly using the `main` function in `tag.py`.
 
 ---
 
-## Summary
-This project demonstrates a robust, concurrent, and multilingual tokenization pipeline with practical LLM integration.
