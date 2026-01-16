@@ -34,7 +34,11 @@ export OPENAI_API_KEY="your_api_key_here"
 ```powershell
 setx OPENAI_API_KEY "your_api_key_here"
 ```
+### Data
+The `keywords.csv` file was provided as part of the take-home assignment
+and is excluded from this public repository to respect data ownership.
 
+To run locally, place `keywords.csv` in the project root.
 ---
 
 ## Run the API
